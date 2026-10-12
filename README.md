@@ -84,9 +84,9 @@ With the results release:
 
 Active test inputs, labels and answer-bearing logs stay protected.
 
-## From evaluation to training
+## Working with us
 
-These measurements guide our training environments: **Craft** for complete research projects, and **Empiric** for prediction and investigation. Benchmark tasks are kept separate from all training samples. If you work at a lab and want to talk, write to team@syntheticsciences.ai.
+We are finding ways to train these capabilities across the empirical sciences, starting with machine learning. If you would like your models to be better at research, write to team@syntheticsciences.ai.
 
 ## Citation
 
